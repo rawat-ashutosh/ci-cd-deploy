@@ -21,4 +21,4 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd /var/www/html/git_Update/ci-cd-deploy
-            git pull origin main ed composed layer no campaign is coming down character
+            git pull origin main
